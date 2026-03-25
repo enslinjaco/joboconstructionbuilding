@@ -82,7 +82,7 @@ export default function AboutPage() {
             <div className='relative'>
               <div className='relative h-[400px] rounded-2xl overflow-hidden shadow-2xl'>
                 <Image
-                  src='https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800&q=80'
+                  src='/jobo.jpeg'
                   alt='Jobo – professional builder and building contractor in Cape Town South Africa'
                   fill
                   className='object-cover'
