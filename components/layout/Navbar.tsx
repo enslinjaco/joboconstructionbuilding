@@ -48,10 +48,7 @@ export default function Navbar() {
             </div>
             <div className='flex flex-col'>
               <span className='text-white font-bold text-sm sm:text-base leading-tight'>
-                Jobo Building
-              </span>
-              <span className='text-xs leading-tight' style={{ color: '#F97316' }}>
-                Construction
+                Jobo Builds
               </span>
             </div>
           </Link>
