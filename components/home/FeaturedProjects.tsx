@@ -100,7 +100,7 @@ export default async function FeaturedProjects() {
                 <div className='relative h-52 overflow-hidden'>
                   <Image
                     src={imageUrl}
-                    alt={`${project.title} – construction project by Jobo Building Construction Cape Town`}
+                    alt={`${project.title} – construction project by Jobo Builds Cape Town`}
                     fill
                     className='object-cover group-hover:scale-105 transition-transform duration-500'
                     sizes='(max-width: 768px) 100vw, 33vw'

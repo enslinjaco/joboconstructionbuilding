@@ -3,11 +3,11 @@ import { CheckCircle2 } from 'lucide-react'
 import { createClient } from '@/lib/supabase/server'
 
 export const metadata: Metadata = {
-  title: 'Pricing – Builder Cape Town | Jobo Building Construction',
+  title: 'Pricing – Builder Cape Town | Jobo Builds',
   description:
-    'Jobo Building Construction charges a daily labour rate. The client supplies all tools and building materials. Transparent, no-surprise pricing for Cape Town homeowners.',
+    'Jobo Builds charges a daily labour rate. The client supplies all tools and building materials. Transparent, no-surprise pricing for Cape Town homeowners.',
   openGraph: {
-    title: 'Pricing – Jobo Building Construction Cape Town',
+    title: 'Pricing – Jobo Builds Cape Town',
     description: 'Daily labour rate. Client provides tools and materials.',
   },
 }

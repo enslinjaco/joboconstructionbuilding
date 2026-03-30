@@ -2,11 +2,11 @@ import type { Metadata } from 'next'
 import { Phone, Mail, MapPin, Clock } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Contact – Builder Cape Town | Jobo Building Construction',
+  title: 'Contact – Builder Cape Town | Jobo Builds',
   description:
-    'Contact Jobo Building Construction. Call 066 367 6516 or email jobobuildingc@gmail.com. Based in Kraaifontein, serving Cape Town, Southern Suburbs and Northern Suburbs.',
+    'Contact Jobo Builds. Call 060 687 3078 or email jobobuildingc@gmail.com. Based in Kraaifontein, serving Cape Town, Southern Suburbs and Northern Suburbs.',
   openGraph: {
-    title: 'Contact Jobo Building Construction – Cape Town Builder',
+    title: 'Contact Jobo Builds – Cape Town Builder',
     description: 'Call or email Jobo for building and renovation work in Cape Town.',
   },
 }
@@ -48,7 +48,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <div className='text-xs text-gray-400 font-medium'>Phone</div>
-                  <div className='font-semibold text-gray-900'>066 367 6516</div>
+                  <div className='font-semibold text-gray-900'>060 687 3078</div>
                 </div>
               </div>
 

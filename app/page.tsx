@@ -8,11 +8,11 @@ import AboutSnippet from '@/components/home/AboutSnippet'
 import AreasServed from '@/components/home/AreasServed'
 
 export const metadata: Metadata = {
-  title: 'Builder & Contractor Cape Town | Jobo Building Construction',
+  title: 'Builder & Contractor Cape Town | Jobo Builds',
   description:
-    'Jobo Building Construction – professional builder in Cape Town. Plastering, painting, tiling, paving, renovations, ceilings, laminate flooring & more. Free quotes. Call 066 367 6516.',
+    'Jobo Builds – professional builder in Cape Town. Plastering, painting, tiling, paving, renovations, ceilings, laminate flooring & more. Free quotes. Call 060 687 3078.',
   openGraph: {
-    title: 'Jobo Building Construction | Builder Cape Town',
+    title: 'Jobo Builds | Builder Cape Town',
     description:
       'Trusted Cape Town builder. Renovations, plastering, painting, tiling, paving & more. Free quotes available.',
   },

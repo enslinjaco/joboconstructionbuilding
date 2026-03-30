@@ -84,7 +84,7 @@ export default function ServicesTeaser() {
             Building &amp; Construction Services in Cape Town
           </h2>
           <p className='text-gray-600'>
-            From a single room renovation to a full new build — Jobo Building Construction
+            From a single room renovation to a full new build — Jobo Builds
             handles every trade with skill and care.
           </p>
         </div>

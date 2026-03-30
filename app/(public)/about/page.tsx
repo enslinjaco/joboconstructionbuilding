@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     'Meet Jobo – professional builder and contractor with over 10 years of experience in Cape Town. Specialising in renovations, building, plastering, painting, tiling, paving and more.',
   openGraph: {
-    title: 'About Jobo – Builder Cape Town | Jobo Building Construction',
+    title: 'About Jobo – Builder Cape Town | Jobo Builds',
     description: 'Experienced Cape Town builder with 10+ years. Quality workmanship at fair prices.',
   },
 }
@@ -33,8 +33,8 @@ const timeline = [
   },
   {
     year: '10+ Years',
-    title: 'Established Jobo Building Construction',
-    description: 'After a decade of experience, launched Jobo Building Construction to deliver quality work directly to homeowners across Cape Town.',
+    title: 'Established Jobo Builds',
+    description: 'After a decade of experience, launched Jobo Builds to deliver quality work directly to homeowners across Cape Town.',
   },
   {
     year: 'Today',
@@ -66,14 +66,14 @@ export default function AboutPage() {
                 over 10 years of hands-on experience in every aspect of building and renovation.
               </p>
               <p className='text-gray-400 leading-relaxed mb-8'>
-                I started Jobo Building Construction to bring quality craftsmanship directly to
+                I started Jobo Builds to bring quality craftsmanship directly to
                 homeowners who want the job done right the first time. No sub-standard work.
                 No surprise costs. Just honest, skilled building work you can be proud of.
               </p>
               <div className='flex flex-col gap-1'>
                 <div className='flex items-center gap-2 text-gray-700'>
                   <Phone className='w-4 h-4' style={{ color: '#F97316' }} />
-                  <span className='font-semibold'>066 367 6516</span>
+                  <span className='font-semibold'>060 687 3078</span>
                 </div>
                 <div className='text-gray-500 text-sm'>jobobuildingc@gmail.com</div>
               </div>
@@ -126,7 +126,7 @@ export default function AboutPage() {
             <div className='relative h-80 rounded-2xl overflow-hidden shadow-xl'>
               <Image
                 src='https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&q=80'
-                alt='Building and construction work in Cape Town – Jobo Building Construction skills'
+                alt='Building and construction work in Cape Town – Jobo Builds skills'
                 fill
                 className='object-cover'
                 sizes='(max-width: 1024px) 100vw, 50vw'

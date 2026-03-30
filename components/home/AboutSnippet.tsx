@@ -49,7 +49,7 @@ export default function AboutSnippet() {
             </h2>
             <p className='text-gray-600 leading-relaxed mb-4'>
               My name is Jobo and I&apos;ve been building and renovating homes across Cape Town for
-              over a decade. I started Jobo Building Construction on a simple promise: deliver
+              over a decade. I started Jobo Builds on a simple promise: deliver
               quality craftsmanship you can be proud of, on time, and at a price that&apos;s fair.
             </p>
             <p className='text-gray-600 leading-relaxed mb-8'>

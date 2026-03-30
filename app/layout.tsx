@@ -16,11 +16,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://jobobuildingconstruction.co.za'),
   title: {
-    default: 'Jobo Building Construction | Builder & Contractor Cape Town',
-    template: '%s | Jobo Building Construction Cape Town',
+    default: 'Jobo Builds | Builder & Contractor Cape Town',
+    template: '%s | Jobo Builds Cape Town',
   },
   description:
-    'Jobo Building Construction – trusted builder, plastering, painting, tiling, paving, renovations & maintenance in Cape Town and Western Cape. Free quotes. Call +27663676516.',
+    'Jobo Builds – trusted builder, plastering, painting, tiling, paving, renovations & maintenance in Cape Town and Western Cape. Free quotes. Call +27606873078.',
   keywords: [
     'builder Cape Town',
     'building contractor Cape Town',
@@ -33,21 +33,21 @@ export const metadata: Metadata = {
     'ceiling installation Cape Town',
     'plumber Cape Town',
     'renovations and maintenance Cape Town',
-    'Jobo Building Construction',
+    'Jobo Builds',
     'handyman Cape Town',
     'construction Western Cape',
   ],
   openGraph: {
     type: 'website',
     locale: 'en_ZA',
-    siteName: 'Jobo Building Construction',
-    title: 'Jobo Building Construction | Builder & Contractor Cape Town',
+    siteName: 'Jobo Builds',
+    title: 'Jobo Builds | Builder & Contractor Cape Town',
     description:
       'Trusted builder and contractor in Cape Town. Plastering, painting, tiling, paving, renovations & more. Free quotes available.',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Jobo Building Construction | Cape Town Builder',
+    title: 'Jobo Builds | Cape Town Builder',
     description: 'Trusted builder and contractor in Cape Town. Free quotes.',
   },
   robots: {
@@ -60,10 +60,10 @@ export const metadata: Metadata = {
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
-  name: 'Jobo Building Construction',
+  name: 'Jobo Builds',
   description:
     'Professional builder and contractor in Cape Town offering plastering, painting, tiling, paving, laminate flooring, ceilings, plumbing, renovations and maintenance.',
-  telephone: '+27663676516',
+  telephone: '+27606873078',
   email: 'jobobuildingconstruction@gmail.com',
   url: 'https://jobobuildingconstruction.co.za',
   areaServed: [

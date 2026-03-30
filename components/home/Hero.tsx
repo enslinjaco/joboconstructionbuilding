@@ -52,7 +52,7 @@ export default function Hero() {
           <div className='flex flex-col sm:flex-row gap-8 mb-10'>
             <div>
               <div className='text-xs text-gray-400 uppercase tracking-wider mb-1'>Phone</div>
-              <div className='text-xl font-bold text-white'>066 367 6516</div>
+              <div className='text-xl font-bold text-white'>060 687 3078</div>
             </div>
             <div>
               <div className='text-xs text-gray-400 uppercase tracking-wider mb-1'>Email</div>

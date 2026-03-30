@@ -72,7 +72,7 @@ export default function CtaForm() {
 
             <div className='flex flex-col gap-4'>
               <a
-                href='tel:+27663676516'
+                href='tel:+27606873078'
                 className='flex items-center gap-3 text-gray-200 hover:text-white transition-colors'
               >
                 <div
@@ -83,7 +83,7 @@ export default function CtaForm() {
                 </div>
                 <div>
                   <div className='font-semibold'>Call Directly</div>
-                  <div className='text-sm text-gray-400'>066 367 6516</div>
+                  <div className='text-sm text-gray-400'>060 687 3078</div>
                 </div>
               </a>
               <a

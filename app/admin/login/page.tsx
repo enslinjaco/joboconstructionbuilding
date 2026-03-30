@@ -44,7 +44,7 @@ export default function AdminLoginPage() {
           >
             <HardHat className='w-7 h-7 text-white' />
           </div>
-          <h1 className='text-xl font-bold text-white'>Jobo Building Construction</h1>
+          <h1 className='text-xl font-bold text-white'>Jobo Builds</h1>
           <p className='text-sm text-gray-400 mt-1'>Admin Panel</p>
         </div>
 

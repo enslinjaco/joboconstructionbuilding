@@ -29,10 +29,7 @@ export default function Footer() {
               </div>
               <div>
                 <div className='text-white font-bold text-base leading-tight'>
-                  Jobo Building
-                </div>
-                <div className='text-xs leading-tight' style={{ color: '#F97316' }}>
-                  Construction
+                  Jobo Builds
                 </div>
               </div>
             </Link>
@@ -43,7 +40,7 @@ export default function Footer() {
             <div className='flex flex-col gap-3 text-sm'>
               <span className='flex items-center gap-2'>
                 <Phone className='w-4 h-4 flex-shrink-0' style={{ color: '#F97316' }} />
-                066 367 6516
+                060 687 3078
               </span>
               <span className='flex items-center gap-2'>
                 <Mail className='w-4 h-4 flex-shrink-0' style={{ color: '#F97316' }} />
@@ -109,7 +106,7 @@ export default function Footer() {
         style={{ borderColor: 'rgba(255,255,255,0.1)' }}
       >
         <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-gray-500'>
-          <p>© {new Date().getFullYear()} Jobo Building Construction. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Jobo Builds. All rights reserved.</p>
           <p>Cape Town, South Africa</p>
         </div>
       </div>

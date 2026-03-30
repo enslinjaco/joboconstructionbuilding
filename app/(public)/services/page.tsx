@@ -39,7 +39,7 @@ const services = [
     title: 'Renovations & Maintenance',
     tagline: 'Complete home transformations and ongoing repairs',
     description:
-      'From a single room makeover to whole-house renovations, Jobo Building Construction handles every aspect of home renovation in Cape Town. We assess, plan, and execute renovations to the highest standard – on time and within budget.',
+      'From a single room makeover to whole-house renovations, Jobo Builds handles every aspect of home renovation in Cape Town. We assess, plan, and execute renovations to the highest standard – on time and within budget.',
     includes: [
       'Full interior renovations',
       'Room additions and alterations',
@@ -49,7 +49,7 @@ const services = [
       'General building repairs',
     ],
     image: 'https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80',
-    altText: 'Home renovation work in Cape Town – Jobo Building Construction',
+    altText: 'Home renovation work in Cape Town – Jobo Builds',
     keyword: 'home renovations Cape Town',
   },
   {
@@ -68,7 +68,7 @@ const services = [
       'Garage and outbuilding construction',
     ],
     image: 'https://images.unsplash.com/photo-1565117962316-3acffabef879?w=800&q=80',
-    altText: 'Builder and brickwork contractor Cape Town – Jobo Building Construction',
+    altText: 'Builder and brickwork contractor Cape Town – Jobo Builds',
     keyword: 'building contractor Cape Town',
   },
   {
@@ -87,7 +87,7 @@ const services = [
       'Crack filling and skimming',
     ],
     image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80',
-    altText: 'Plastering contractor Cape Town – smooth wall finishes by Jobo Building Construction',
+    altText: 'Plastering contractor Cape Town – smooth wall finishes by Jobo Builds',
     keyword: 'plastering Cape Town',
   },
   {
@@ -125,7 +125,7 @@ const services = [
       'Quick, clean installation',
     ],
     image: 'https://images.unsplash.com/photo-1556909212-d5b604d0c90d?w=800&q=80',
-    altText: 'Laminate flooring installation Cape Town – Jobo Building Construction',
+    altText: 'Laminate flooring installation Cape Town – Jobo Builds',
     keyword: 'laminate flooring Cape Town',
   },
   {
@@ -144,7 +144,7 @@ const services = [
       'Ceiling painting',
     ],
     image: 'https://images.unsplash.com/photo-1513694203232-719a280e022f?w=800&q=80',
-    altText: 'Ceiling installation and repair Cape Town – Jobo Building Construction',
+    altText: 'Ceiling installation and repair Cape Town – Jobo Builds',
     keyword: 'ceiling installation Cape Town',
   },
   {
@@ -163,7 +163,7 @@ const services = [
       'Renovation plumbing',
     ],
     image: 'https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=80',
-    altText: 'Plumbing repairs and installation Cape Town – Jobo Building Construction',
+    altText: 'Plumbing repairs and installation Cape Town – Jobo Builds',
     keyword: 'plumber Cape Town',
   },
   {
@@ -182,7 +182,7 @@ const services = [
       'Tile repair and re-grouting',
     ],
     image: 'https://images.unsplash.com/photo-1581814927969-dc4de2671f95?w=800&q=80',
-    altText: 'Tiling contractor Cape Town – Jobo Building Construction bathroom and floor tiling',
+    altText: 'Tiling contractor Cape Town – Jobo Builds bathroom and floor tiling',
     keyword: 'tiling Cape Town',
   },
   {

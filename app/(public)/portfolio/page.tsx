@@ -6,9 +6,9 @@ import type { Project } from '@/lib/types'
 export const metadata: Metadata = {
   title: 'Portfolio – Construction & Renovation Projects Cape Town',
   description:
-    'Browse Jobo Building Construction\'s portfolio of completed projects across Cape Town – renovations, building, plastering, painting, tiling, paving and more. See the quality of our work.',
+    'Browse Jobo Builds\'s portfolio of completed projects across Cape Town – renovations, building, plastering, painting, tiling, paving and more. See the quality of our work.',
   openGraph: {
-    title: 'Portfolio – Building Projects Cape Town | Jobo Building Construction',
+    title: 'Portfolio – Building Projects Cape Town | Jobo Builds',
     description: 'See our completed construction and renovation projects across Cape Town.',
   },
 }

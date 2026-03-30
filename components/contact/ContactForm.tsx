@@ -52,10 +52,10 @@ export default function ContactForm() {
         setSubmitted(true)
         toast.success('Message sent successfully!')
       } else {
-        toast.error('Failed to send. Please call us directly on 066 367 6516.')
+        toast.error('Failed to send. Please call us directly on 060 687 3078.')
       }
     } catch {
-      toast.error('Failed to send. Please call us directly on 066 367 6516.')
+      toast.error('Failed to send. Please call us directly on 060 687 3078.')
     } finally {
       setLoading(false)
     }
@@ -77,7 +77,7 @@ export default function ContactForm() {
           Thanks for reaching out. Jobo will contact you shortly to discuss your project.
         </p>
         <p className='text-sm text-gray-400'>
-          For urgent queries, call <strong className='text-gray-700'>066 367 6516</strong>{' '}
+          For urgent queries, call <strong className='text-gray-700'>060 687 3078</strong>{' '}
           or WhatsApp directly.
         </p>
       </div>
@@ -177,7 +177,7 @@ export default function ContactForm() {
         </button>
 
         <p className='text-xs text-center text-gray-400'>
-          By submitting, you agree to be contacted by Jobo Building Construction regarding your inquiry.
+          By submitting, you agree to be contacted by Jobo Builds regarding your inquiry.
         </p>
       </form>
     </div>
